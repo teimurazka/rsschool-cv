@@ -6,9 +6,9 @@
 ## basic programming concepts and syntax. Use coding to solve real problems
 ## and build interesting projects.
 
-## Skills: HTML, CSS, JS
+## 3.Skills: HTML, CSS, JS
 
-## Decimal to Binary Converter: 
+## 4.Decimal to Binary Converter: 
 ### const decimalToBinary = (input) => {
 ###  if (input === 0 || input === 1) {
 ###    return String(input);
@@ -16,6 +16,10 @@
 ###    return decimalToBinary(Math.floor(input / 2)) + (input % 2);
 ###  }
 ### };
+
+## 5. Education: VAADS Free University Of Visual Arts
+
+
 
 
 
